@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+.streamlit/secrets.toml
+*.xlsx
+*.xls
+*.xlsm
+*.whatsapp.txt
+WhatsApp Chat.txt
+output/
+data/
+*.log
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
